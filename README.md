@@ -4,7 +4,7 @@ This repository currently contains a prompt specification for a cinematic night 
 
 ## Available prompt spec
 
-- `/home/runner/work/book-app/book-app/prompts/cinematic-night-illustration.json`
+- `prompts/cinematic-night-illustration.json`
 
 The prompt spec captures:
 
