@@ -1,0 +1,28 @@
+{
+  "title": "Cinematic night illustration in a mountain cave",
+  "source_request": "Disney-style cinematic night illustration, camera centered behind him, STRICT full rear view only. Slim-fit all-white hoodie tightly secured, slim white pants, white sneakers, no bag. Sitting on his prayer mat inside a small mountain cave with Milky Way streaming through the opening. make a 4k photo",
+  "production_prompt": "Create a cinematic animated night illustration with the camera centered directly behind a single seated man in a strict full rear view only. He is wearing a slim-fit all-white hoodie with the hood up and tightly secured, slim white pants, and clean white sneakers, with no bag or extra accessories. He is sitting on a prayer mat inside a small mountain cave. The cave opening frames a vivid Milky Way sky streaming across the night, with gentle moonlit ambience, detailed rock textures, serene spiritual mood, balanced composition, and ultra-detailed 4K quality. Keep the subject fully seen from behind, avoid side profile visibility, and preserve the calm, contemplative atmosphere suggested by the reference images.",
+  "negative_prompt": [
+    "front view",
+    "three-quarter view",
+    "side profile",
+    "bag or backpack",
+    "extra people",
+    "bright daylight",
+    "city setting",
+    "non-white clothing",
+    "blurry details",
+    "cropped body",
+    "visible face"
+  ],
+  "references": [
+    {
+      "url": "https://github.com/user-attachments/assets/300e5b80-c610-4142-b159-73cb4bb49a25",
+      "purpose": "overall night mood, white outfit, seated contemplative pose"
+    },
+    {
+      "url": "https://github.com/user-attachments/assets/19ffe5a0-3a6d-4beb-8905-7abb96a6960a",
+      "purpose": "secondary visual reference supplied by the user"
+    }
+  ]
+}
